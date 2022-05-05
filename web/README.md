@@ -32,3 +32,16 @@ npm install phosphor-react
 ```javascript
 npm install @headlessui/react
 ```
+
+### Instalando Plugin para Formulário
+
+```javascript
+npm install -D @tailwindcss/forms
+npm install --save-dev tailwind-scrollbar
+```
+
+### Instalando Biblioteca para screenshot
+
+```javascript
+npm install html2canvas
+```
