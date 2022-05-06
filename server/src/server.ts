@@ -9,5 +9,5 @@ app.use(express.json());
 app.use(routes);
 
 app.listen(process.env.PORT || 3333, () => {
-  console.log("HTTP server running on port 3333!");
+  console.log(`HTTP server running on port ${process.env.PORT}!`);
 });
